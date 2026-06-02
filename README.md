@@ -391,7 +391,7 @@ Page 4
 }
 ```
 # OUTPUT:
-![Uploading Screenshot 2026-06-02 144414.png…]()
+<img width="1612" height="944" alt="Screenshot 2026-06-02 144414" src="https://github.com/user-attachments/assets/06335087-9f88-43a5-8977-901505653419" />
 
 
 # RESULT:
